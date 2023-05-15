@@ -4,6 +4,9 @@
 
 WildTrack is a non-profit organization that uses artificial intelligence to help wildlife conservationists and researchers around the world. We are a team of scientists, engineers, and data scientists who are passionate about developing non-invasive technology to help protect endangered species and their habitats.🐢🦏🐅🐘 
 
+Our AI platform is accessible here:
+- [WildTrackAI Web Platform](https://ai.wildtrack.org/)
+
 Our mobile app is available on iOS and Android:
 - [WildTrackAI iOS app](https://apps.apple.com/us/app/wildtrackai/id1625129285)
 - [WildTrackAI Android app](https://play.google.com/store/apps/details?id=com.wildtrack.WildTrackAI)
